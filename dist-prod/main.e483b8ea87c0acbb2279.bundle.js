@@ -45550,7 +45550,6 @@ exports.AppComponent = AppComponent;
 "use strict";
 
 Object.defineProperty(exports, "__esModule", { value: true });
-__webpack_require__(/*! ../styles/common.scss */ "./styles/common.scss");
 var AppModule = /** @class */ (function () {
     function AppModule() {
     }
@@ -45662,6 +45661,7 @@ exports.MainModuleNgFactory = MainModuleNgFactory;
 
 Object.defineProperty(exports, "__esModule", { value: true });
 __webpack_require__(/*! reflect-metadata */ "../node_modules/reflect-metadata/Reflect.js");
+__webpack_require__(/*! ./styles/common.scss */ "./styles/common.scss");
 var MainModule = /** @class */ (function () {
     function MainModule() {
     }
@@ -45710,4 +45710,3 @@ document.addEventListener("DOMContentLoaded", function () {
 /***/ })
 
 /******/ });
-//# sourceMappingURL=main.7a97bc85dca3e3920052.bundle.js.map

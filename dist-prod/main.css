@@ -1,14 +1,12 @@
-.hello__button {
-  padding: 10px;
-  background-color: #53d3f5;
-}
-
-
 .button {
   padding: 30px;
   font-size: 40px;
 }
 
 
+.hello__button {
+  padding: 10px;
+  background-color: #53d3f5;
+}
 
-/*# sourceMappingURL=main.css.map*/
+
